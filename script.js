@@ -1,5 +1,5 @@
 //ADD YOUR API KEY HERE 
-const api_key = "YOUR_API_KEY"
+const api_key = "3b4e8322f4e46f"
 
 
 var streamer = false
@@ -257,4 +257,5 @@ font_awesome.crossOrigin = "anonymous";
 font_awesome.referrerPolicy = "no-referrer";
 
 document.head.appendChild(font_awesome);
+
 
